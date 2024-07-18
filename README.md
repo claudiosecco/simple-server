@@ -13,8 +13,8 @@ This repository contains a simple HTTP server script written in Python. The serv
 Clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/simple_http_server.git
-cd simple_http_server
+git clone https://github.com/claudiosecco/simple-server.git
+cd simpl-server
 ```
 
 ### Usage
